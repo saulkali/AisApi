@@ -8,5 +8,7 @@ Api desarrollada con core api.
 # como instalar
 basta con solo clonar el proyecto desde este repositorio y por teoria deberia de importar todo de manera automatica.
 
+![alt text](https://i.ytimg.com/vi/c4nuFjV9yms/maxresdefault.jpg)
+
 # bug
 aparentemente no tiene bugs.
